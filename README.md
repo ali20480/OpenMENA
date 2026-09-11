@@ -7,9 +7,9 @@ The BOM can be generated from the schematic in KiCAD.
 
 **Some details:**
 
-Potentiometers use 20K 10 turns
-Pull down for the crossbar use 2.2k
-Gain setting resistors for the amplifiers use 12k
+Potentiometers use 20K 10 turns;
+Pull down for the crossbar use 2.2k;
+Gain setting resistors for the amplifiers use 12k;
 In the back, use 500 ohm for R30 see picture attached, while leaving the R29 pad untouched.
 
 **Small Required Modification to the PCB**
