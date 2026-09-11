@@ -2,13 +2,12 @@
 
 This repository contains the supplementary material of the preprint paper "OpenMENA: An Open-Source Memristor Interfacing and Compute Board for Neuromorphic Edge-AI Applications" by Ali Safa et al., College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar.
 
-Assembling the OpenMENA PCB can be challenging due to the use of tiny surface-mount components. To alleviate this, we **offer support** for assembling and shipping the OpenMENA hardware platform to fellow researcher, for more information feel free to send an email at: **asafa@hbku.edu.qa** and we will be in touch.
 
 The BOM can be generated from the schematic in KiCAD.
 
 If you are using this work, please cite as follows:
 
-Ali Safa, Farida Mohsen, Zainab Ali, Bo Wang, & Amine Bermak. (2025). OpenMENA: An Open-Source Memristor Interfacing and Compute Board for Neuromorphic Edge-AI Applications.
+Ali Safa, Farida Mohsen, Zainab Ali, Bo Wang, & Amine Bermak. (2026). OpenMENA: An Open-Source Memristor Interfacing and Compute Board for Neuromorphic Edge-AI Applications. 2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS), Ha Long Bay, Vietnam, 2026 (in press)
 
 The pre-print of the paper can be found in the link below:
 
