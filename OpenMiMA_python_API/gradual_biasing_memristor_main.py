@@ -102,7 +102,7 @@ for ix in range(8):
                 
         if n_iter % L_check == 0:
             if n_iter > 0:
-                volt_add_more += 0.1 * 0
+                volt_add_more += 0.01
                 print("ADD MORE")
                 
 
